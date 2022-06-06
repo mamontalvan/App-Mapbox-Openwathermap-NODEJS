@@ -22,4 +22,8 @@ $ npm install
 
 $ npm start
 
+![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
+
 ![API_NODEJS](https://user-images.githubusercontent.com/1218979/172187491-18334d30-a3f1-46d3-8629-cae75056fdad.gif)
+
+![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
