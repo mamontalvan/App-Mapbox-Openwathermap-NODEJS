@@ -12,7 +12,7 @@ Dentro del proyecto se usa los paquetes de terceros como:
 ## ❯ Requerimientos:
 
 - Crear una cuenta en [Mapbox](https://www.mapbox.com/) y [Openweathermap](https://openweathermap.org/) y generar los Tokens respectivos para las APIs
-
+- Colocar los Tokens en el archivo de variables de entorno: .env_example
 
 ## ❯ Install
 
